@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ushaswi K
 
+✨ _“Exploring the intersection of AI, data, and business impact — one model at a time.”_
+
 **📍 Location:** Austin, TX (Open to Relocation)  
 **🎯 Looking for:** Data Scientist | AI/ML Engineer 
 
@@ -33,9 +35,9 @@ Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, 
 
 **ETL & Databases:**  ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoftazure) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 
----
 
-✨ _“Exploring the intersection of AI, data, and business impact — one model at a time.”_
+
+
 
 
 ---
