@@ -19,11 +19,7 @@ Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, 
 
 ### ⚙️ Technical Skills  
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-blue?logo=python) 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) 
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql) 
-![PySpark](https://img.shields.io/badge/PySpark-orange)
+**Programming Languages:**  ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql) ![PySpark](https://img.shields.io/badge/PySpark-orange)
 
 **ML & AI Frameworks:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch) 
@@ -158,10 +154,8 @@ Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, 
 ### 🎓 Education
 
 **Master’s in Computer Science** | University at Buffalo  
-Buffalo, NY | Aug 2023 – Dec 2024 | CGPA: 3.4/4.0  
-
-**Bachelor of Technology in Artificial Intelligence** | Amrita Vishwa Vidyapeetham  
-Kollam, Kerala, India | Aug 2019 – May 2023  
+Buffalo, NY | Aug 2023 – Feb 2025 | CGPA: 3.7/4.0  
+ 
 
 ✨ For a full list of projects, check my [GitHub Repositories](https://github.com/ushaswi-k?tab=repositories).
 
