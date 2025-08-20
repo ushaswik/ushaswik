@@ -2,15 +2,13 @@
 
 ✨ _“Exploring the intersection of AI, data, and business impact — one model at a time.”_
 
-**📍 Location:** Austin, TX (Open to Relocation)  
-**🎯 Looking for:** Data Scientist | AI/ML Engineer 
+**📍 Location:** Austin, TX (Open to Relocation)  | 🎯 Looking for:** Data Scientist | AI/ML Engineer 
+
 
 ---
 
 ### 📬 Connect with me
-- 📧 Email: [heyushaswi@gmail.com](mailto:heyushaswi@gmail.com)  
-- 📱 Mobile: +1 (716) 226-8333  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ushaswik/) | [GitHub](https://github.com/ushaswik)
+- 📧 Email: [heyushaswi@gmail.com](mailto:heyushaswi@gmail.com)  | 📱 Mobile: +1 (716) 226-8333  
 
 ---
 
