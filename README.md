@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ushaswi K
 
 **📍 Location:** Austin, TX (Open to Relocation)  
-**🎯 Looking for:** Data Science | AI Engineer | ML Engineer Roles  
+**🎯 Looking for:** Data Science | ML Engineer Roles | Data Scientist | AI with Data roles 
 
 ---
 
