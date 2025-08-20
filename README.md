@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Ushaswi K
 
 **📍 Location:** Austin, TX (Open to Relocation)  
-**🎯 Looking for:** Data Science | ML Engineer Roles | Data Scientist | AI with Data roles 
+**🎯 Looking for:** Data Scientist | AI/ML Engineer 
 
 ---
 
 ### 📬 Connect with me
 - 📧 Email: [heyushaswi@gmail.com](mailto:heyushaswi@gmail.com)  
 - 📱 Mobile: +1 (716) 226-8333  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ushaswik/) | [GitHub](https://github.com/ushaswi-k)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ushaswik/) | [GitHub](https://github.com/ushaswik)
 
 ---
 
@@ -103,10 +103,10 @@ Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, 
 
 ### 📊 Prediction & Classification Projects  
 
-**Financial Fraud Detection**  
-- Built a fraud detection model using **XGBoost, Random Forest, and Neural Networks**, addressing severe class imbalance with **SMOTE + Stratified K-Fold validation**.  
-- Achieved an **AUC-ROC score of 0.94**, reducing false negatives by 22% compared to baseline.  
-- Automated ETL pipelines on **Snowflake** to handle multi-terabyte datasets from credit card transactions.  
+**Credit Card Fraud Detection (PySpark + SparkSQL)**  
+- Built a scalable fraud detection pipeline using **PySpark, SparkSQL, and MLlib**, processing 5M+ transactions in distributed mode.  
+- Implemented advanced **class imbalance handling techniques (SMOTE + Stratified Sampling)**, boosting recall by 22%.  
+- Integrated pipeline with **Databricks** for automated retraining and real-time scoring on streaming datasets.  
 
 **Healthcare Risk Prediction**  
 - Designed ML models to predict **hospital readmission risks** using **TensorFlow, scikit-learn, and PyTorch**.  
@@ -123,6 +123,11 @@ Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, 
 - Used **data augmentation** to improve generalization and reduce overfitting.  
 - Evaluated performance with confusion matrices, ROC curves, and precision-recall metrics.  
 
+**Human Activity Recognition**  
+- Built a deep learning model using **CNN + LSTM architectures** to classify **multivariate sensor time-series data** into human activity categories.  
+- Applied **windowing & feature extraction** for sequential sensor readings, improving recognition accuracy to 94%.  
+- Deployed model in a **real-time monitoring system** for activity tracking.  
+
 **Housing Price Prediction**  
 - Built regression models with **Linear Regression, Random Forest, and PCA-based dimensionality reduction** for predicting housing prices.  
 - Identified strong feature correlations (area, number of bathrooms, location), boosting model interpretability.  
@@ -132,6 +137,31 @@ Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, 
 - Delivered a monitoring dashboard with **Matplotlib & Seaborn**, enabling real-time insights for failure prevention.  
 
 ---
+
+### ⚡ Data Engineering & ETL  
+
+**Olympic Data Insights: Azure ETL Pipeline**  
+*September 2023 – November 2023*  
+- Developed automated ETL workflows with **Azure Data Factory + Databricks**, accelerating the analysis of Olympic event data and reducing dataset preparation time by 50%.  
+- Curated large-scale datasets in **Azure Data Lake**, implementing partitioning strategies that improved query speed by 40%.  
+- Built **Power BI dashboards** featuring athlete performance, event participation, and historical comparisons, enabling data-driven decisions.  
+
+**ETL Pipeline for Financial Data**  
+- Architected an **end-to-end ETL pipeline** with **Azure Data Factory + Snowflake** to integrate structured/unstructured datasets across multiple sources.  
+- Automated schema validation and anomaly detection, reducing pipeline failures by 30%.  
+- Enabled real-time data delivery to downstream ML models for fraud detection and financial reporting.  
+
+
+
+---
+
+### 🎓 Education
+
+**Master’s in Computer Science** | University at Buffalo  
+Buffalo, NY | Aug 2023 – Dec 2024 | CGPA: 3.4/4.0  
+
+**Bachelor of Technology in Artificial Intelligence** | Amrita Vishwa Vidyapeetham  
+Kollam, Kerala, India | Aug 2019 – May 2023  
 
 ✨ For a full list of projects, check my [GitHub Repositories](https://github.com/ushaswi-k?tab=repositories).
 
