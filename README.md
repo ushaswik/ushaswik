@@ -66,3 +66,73 @@ Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, 
 ---
 
 ✨ _“Exploring the intersection of AI, data, and business impact — one model at a time.”_
+
+
+---
+
+## 🚀 Featured Projects  
+
+### 🧠 Generative AI & LLM Projects  
+
+**Enterprise GenAI Pipeline with RAG**  
+*March 2024 – May 2024*  
+- Designed and deployed an **end-to-end Generative AI pipeline** using **LangChain, Hugging Face, FAISS, and OpenAI APIs** to enable context-aware question answering across enterprise knowledge bases.  
+- Implemented **Retrieval-Augmented Generation (RAG)** for handling structured and unstructured data, reducing query latency by 30% and improving relevance scores by 25%.  
+- Containerized the pipeline with **Docker** and orchestrated deployment on **AWS Sagemaker**, ensuring scalability and real-time inference.  
+- Delivered a modular solution extensible to multiple domains including **finance, healthcare, and retail analytics**.  
+
+**LLM-Powered Chatbot with LangChain**  
+*December 2023 – February 2024*  
+- Built a **conversational AI chatbot** using **LangChain + Llama 2 (via Ollama)** for multi-turn dialogue, enabling contextual responses and memory persistence.  
+- Developed **FastAPI endpoints** to handle inference requests and integrated a **Streamlit frontend** for real-time interactions.  
+- Secured API workflows using **dotenv** for environment variable management, preparing the application for production deployment.  
+- Enhanced user satisfaction scores by 20% through iterative fine-tuning and prompt engineering.  
+
+---
+
+### 🎯 Recommendation Systems  
+
+**Personalized Product Recommendation Engine**  
+*September 2023 – November 2023*  
+- Developed a **collaborative filtering + content-based recommendation system** for retail customers using **Python, scikit-learn, and PySpark**.  
+- Preprocessed 10M+ transaction records with **Azure Data Factory + Databricks**, implementing feature engineering pipelines that improved training efficiency by 35%.  
+- Delivered a hybrid ranking model that increased recommendation precision by **18%**, driving measurable improvements in conversion rates.  
+- Visualized customer preference trends using **Power BI dashboards** for business stakeholders.  
+
+---
+
+### 📊 Prediction & Classification Projects  
+
+**Financial Fraud Detection**  
+- Built a fraud detection model using **XGBoost, Random Forest, and Neural Networks**, addressing severe class imbalance with **SMOTE + Stratified K-Fold validation**.  
+- Achieved an **AUC-ROC score of 0.94**, reducing false negatives by 22% compared to baseline.  
+- Automated ETL pipelines on **Snowflake** to handle multi-terabyte datasets from credit card transactions.  
+
+**Healthcare Risk Prediction**  
+- Designed ML models to predict **hospital readmission risks** using **TensorFlow, scikit-learn, and PyTorch**.  
+- Improved F1-score by **20%** through hyperparameter tuning and ensemble learning.  
+- Deployed the pipeline on **AWS MLflow**, enabling reproducibility and experiment tracking.  
+
+**Retail Sales Forecasting**  
+- Implemented a **time-series forecasting solution** using **Prophet, LSTMs, and ARIMA** to predict category-wise sales across multiple regions.  
+- Achieved an **18% improvement in MAPE** versus existing heuristic-based forecasts.  
+- Delivered results through an **interactive Tableau dashboard**, enabling planners to make data-driven decisions.  
+
+**COVID-19 CT Scan Image Classification**  
+- Applied **transfer learning** with **VGG16 & ResNet-50** on medical CT images, achieving **98% classification accuracy**.  
+- Used **data augmentation** to improve generalization and reduce overfitting.  
+- Evaluated performance with confusion matrices, ROC curves, and precision-recall metrics.  
+
+**Housing Price Prediction**  
+- Built regression models with **Linear Regression, Random Forest, and PCA-based dimensionality reduction** for predicting housing prices.  
+- Identified strong feature correlations (area, number of bathrooms, location), boosting model interpretability.  
+
+**Anomaly Detection with LSTMs**  
+- Developed a deep learning pipeline for detecting anomalies in **IoT sensor data (temperature & performance logs)** using **LSTM autoencoders**.  
+- Delivered a monitoring dashboard with **Matplotlib & Seaborn**, enabling real-time insights for failure prevention.  
+
+---
+
+✨ For a full list of projects, check my [GitHub Repositories](https://github.com/ushaswi-k?tab=repositories).
+
+
