@@ -36,6 +36,39 @@ Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, 
 
 
 
+---
+
+
+## 💼 WORK EXPERIENCE  
+
+**AI/ML Engineer | Community Dreams**  
+*Healthcare Domain | Feb 2025 – Present*  
+- Fine-tuned **LLMs (Flan-T5, LLaMA-2)** with **PEFT (LoRA/QLoRA)** and implemented **RAG pipelines**, improving recommendation accuracy by **72%**.  
+- Orchestrated **AWS + Snowflake pipelines** for large-scale healthcare data, boosting workflow efficiency by **30%**.  
+- Applied **statistical analysis and ML optimization** to clinical data, increasing model precision by **21%**.  
+- Delivered **GenAI dashboards** (Plotly/Dash, Tableau), accelerating decision-making for clinicians and finance teams.  
+- Dockerized ML modules for deployment in operational workflows, reducing manual analysis time by **40%**.  
+- Collaborated with stakeholders to define KPIs, ensure compliance, and improve AI/ML adoption and ROI.  
+
+---
+
+
+**Research Assistant | University at Buffalo**  
+*Healthcare AI | May 2024 – Dec 2024*  
+- Developed a **GenAI pipeline** to transcribe videos with **Whisper**, summarize content with **GPT/T5/BART**, and generate images with **DALL·E**.  
+- Built a **Streamlit app** for summarization + Q&A, allowing students to upload texts and interact with LLMs for domain-specific queries.
+
+---
+
+**Data Scientist | NP Solutions**  
+*Finance Domain | Jan 2021 – Aug 2023*  
+- Architected **end-to-end ETL pipelines in Databricks (SQL, Python)** integrating multi-terabyte sales, promotions & media data from **Amazon S3**, reducing latency by **35%**.  
+- Engineered **data models + anomaly detection** pipelines, improving reliability of ML workflows by **25%**.  
+- Orchestrated **Airflow pipelines** to deliver analytics-ready datasets for business & ML teams in near real-time.  
+- Developed **demand forecasting models** (regression, ensemble methods), raising forecast accuracy by **18%**.  
+- Built **NLP/LLM pipelines** to analyze customer feedback, aligning media spend with consumer sentiment.  
+- Designed **interactive Tableau dashboards** for KPIs (ROI, sales lift, product performance), enabling ML-driven executive insights.  
+
 
 
 ---
