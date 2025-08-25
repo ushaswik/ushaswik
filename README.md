@@ -9,7 +9,6 @@
 ### 📬 Connect with me
 - 📧 Email: [heyushaswi@gmail.com](mailto:heyushaswi@gmail.com)
 - 📱 Mobile: +1 (716) 226-8333
-- 🔗 LinkedIn: [linkedin.com/in/ushaswi-kurmala](#) &nbsp;|&nbsp; 💻 GitHub: [github.com/ushaswi-kurmala](#)
 
 ---
 
