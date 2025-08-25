@@ -1,75 +1,76 @@
-# 👋 Hi, I'm Ushaswi K
+# 👋 Hi, I'm Kurmala Ushaswi
 
-✨ _“Exploring the intersection of AI, data, and business impact — one model at a time.”_
+✨ _“Building reliable LLM/ML systems that turn messy data into measurable business impact.”_
 
-**📍 Location:** Austin, TX (Open to Relocation)  | 🎯 Looking for:** Data Scientist | AI/ML Engineer 
-
+**📍 Location:** Austin, TX (Open to relocation) &nbsp;|&nbsp; **🎯 Roles:** Data Scientist · AI/ML Engineer
 
 ---
 
 ### 📬 Connect with me
-- 📧 Email: [heyushaswi@gmail.com](mailto:heyushaswi@gmail.com)  | 📱 Mobile: +1 (716) 226-8333  
+- 📧 Email: [heyushaswi@gmail.com](mailto:heyushaswi@gmail.com)
+- 📱 Mobile: +1 (716) 226-8333
+- 🔗 LinkedIn: [linkedin.com/in/ushaswi-kurmala](#) &nbsp;|&nbsp; 💻 GitHub: [github.com/ushaswi-kurmala](#)
 
 ---
 
-### 🧑‍💻 Profile Summary
-Innovative **Data Scientist** with 3+ years of expertise in **Machine Learning, Generative AI, and Cloud-based Analytics**. Skilled in building scalable AI/ML pipelines, developing predictive models, and delivering actionable insights across **finance, healthcare, and retail domains**. Proficient in **Python, PySpark, and cloud platforms (AWS, GCP, Azure, Snowflake)** with strong experience in **LLM fine-tuning, RAG, and end-to-end MLOps**. Passionate about applying AI to solve real-world problems and driving business impact through data-driven decision-making.
+## 🧑‍💻 Profile Summary
+AI/ML Engineer with **4+ years** of experience building and deploying **LLM** and **machine learning** solutions across **finance, healthcare, and retail**. Skilled in **big data pipelines**, **cloud deployment (AWS/GCP)**, **predictive modeling**, **NLP**, and **RAG systems**, delivering measurable efficiency gains, improved accuracy, and actionable business insights.
 
 ---
 
-### ⚙️ Technical Skills  
+## ⚙️ Technical Skills
 
-**Programming Languages:**  ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql) ![PySpark](https://img.shields.io/badge/PySpark-orange)
+**Programming:** ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql) ![PySpark](https://img.shields.io/badge/PySpark-orange) ![R](https://img.shields.io/badge/R-276DC3?logo=r) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)
 
-**ML & AI Frameworks:**  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv) ![XGBoost](https://img.shields.io/badge/XGBoost-0072BD)
+**ML & AI:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn) ![Keras](https://img.shields.io/badge/Keras-D00000) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface) ![LangChain](https://img.shields.io/badge/LangChain-0A66C2) ![RAG](https://img.shields.io/badge/RAG-2ea44f) ![NLP](https://img.shields.io/badge/NLP-5C3EE8) ![TimeSeries](https://img.shields.io/badge/Time--series-555)
 
-**Generative AI / LLMs:**  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface) ![LangChain](https://img.shields.io/badge/LangChain-0A66C2) ![RAG](https://img.shields.io/badge/RAG-green) ![FAISS](https://img.shields.io/badge/FAISS-00599C) ![ChromaDB](https://img.shields.io/badge/ChromaDB-purple)
+**Data Engineering:** ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks) ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00B2FF)
 
-**ML Infrastructure & MLOps:**  ![MLflow](https://img.shields.io/badge/MLflow-0194E2) ![CI/CD](https://img.shields.io/badge/CI/CD-yellow) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+**Cloud & MLOps:** ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud) ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes) ![MLflow](https://img.shields.io/badge/MLflow-0194E2) ![CI/CD](https://img.shields.io/badge/CI%2FCD-555) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
 
-**Cloud & Data Engineering:**  ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks)
+**Warehouses & DBs:** ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud) ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?logo=amazonredshift) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 
-**Visualization & BI Tools:**  ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5) ![Seaborn](https://img.shields.io/badge/Seaborn-teal)
-
-**ETL & Databases:**  ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoftazure) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-
-
-
+**Monitoring & Viz:** ![W&B](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?logo=weightsandbiases) ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi)
 
 ---
 
+## 💼 Work Experience
 
-## 💼 WORK EXPERIENCE  
-
-**AI/ML Engineer | Community Dreams**  
-*Healthcare Domain | Feb 2025 – Present*  
-- Fine-tuned **LLMs (Flan-T5, LLaMA-2)** with **PEFT (LoRA/QLoRA)** and implemented **RAG pipelines**, improving recommendation accuracy by **72%**.  
-- Orchestrated **AWS + Snowflake pipelines** for large-scale healthcare data, boosting workflow efficiency by **30%**.  
-- Applied **statistical analysis and ML optimization** to clinical data, increasing model precision by **21%**.  
-- Delivered **GenAI dashboards** (Plotly/Dash, Tableau), accelerating decision-making for clinicians and finance teams.  
-- Dockerized ML modules for deployment in operational workflows, reducing manual analysis time by **40%**.  
-- Collaborated with stakeholders to define KPIs, ensure compliance, and improve AI/ML adoption and ROI.  
-
----
-
-
-**Research Assistant | University at Buffalo**  
-*Healthcare AI | May 2024 – Dec 2024*  
-- Developed a **GenAI pipeline** to transcribe videos with **Whisper**, summarize content with **GPT/T5/BART**, and generate images with **DALL·E**.  
-- Built a **Streamlit app** for summarization + Q&A, allowing students to upload texts and interact with LLMs for domain-specific queries.
+### AI Engineer — Total Bank Solutions, USA  
+**Jan 2025 – Present**
+- Built and deployed an **LLM-powered RAG** system (OpenAI, LangChain, Hugging Face) to automate financial document analysis (contracts, compliance reports), boosting issue-detection speed by **29%**.  
+- Integrated **Amazon Transcribe (STT)** and **AWS Polly (TTS)** into financial document workflows with validation, improving transcription accuracy by **38%** and processing efficiency by **32%**.  
+- Established evaluation using **NDCG/MRR**, improving AI model precision by **21%** across datasets and environments.  
+- Deployed LLM apps as **REST APIs on GCP** with containerized microservices, reducing latency by **31%** and enabling scalable multi-region availability.  
+- Implemented **continuous evaluation** with **MLflow** to monitor drift, latency, and accuracy for stable production reliability.  
+- Prototyped **agentic AI workflows** (LangChain Agents, LangGraph) with human-in-the-loop, cutting manual intervention by **50%**.  
+- Partnered with product, risk, and compliance to align AI services with regulatory standards.
 
 ---
 
-**Data Scientist | NP Solutions**  
-*Finance Domain | Jan 2021 – Aug 2023*  
-- Architected **end-to-end ETL pipelines in Databricks (SQL, Python)** integrating multi-terabyte sales, promotions & media data from **Amazon S3**, reducing latency by **35%**.  
-- Engineered **data models + anomaly detection** pipelines, improving reliability of ML workflows by **25%**.  
-- Orchestrated **Airflow pipelines** to deliver analytics-ready datasets for business & ML teams in near real-time.  
-- Developed **demand forecasting models** (regression, ensemble methods), raising forecast accuracy by **18%**.  
-- Built **NLP/LLM pipelines** to analyze customer feedback, aligning media spend with consumer sentiment.  
-- Designed **interactive Tableau dashboards** for KPIs (ROI, sales lift, product performance), enabling ML-driven executive insights.  
+### Machine Learning Engineer — Optum Technology, USA  
+**Jan 2024 – Dec 2024**
+- Designed **HIPAA-compliant** pipelines to process **25 TB+** EHR/clinical data (Redshift, Snowflake, BigQuery) with schema validation, RBAC, and encryption, reducing security risks by **30%**.  
+- Built **PySpark/Spark SQL** pipelines on **Databricks** to integrate patient, claims, and IoT vitals data, meeting daily SLAs.  
+- Containerized and deployed models on **Kubernetes (EKS)** with automated retraining; **+15%** diagnostic accuracy, **–18%** false positives.  
+- Implemented **CI/CD** (GitHub Actions, Docker, MLflow Model Registry), taking deployment cycles from weeks to **under 1 day** with safe rollbacks.  
+- Integrated **Apache Kafka** for ICU vitals streaming, achieving **99.8%** uptime and enabling early sepsis/cardiac detection.  
+- Built time-series forecasting (ARIMA, Prophet) to predict ICU beds/ventilators, reducing supply-chain inefficiencies by **20%**.  
+- Developed **NLP** pipelines (BERT, Spark NLP) on clinicians’ notes and feedback, improving classification accuracy by **23%** over TF-IDF/Word2Vec.
 
+---
 
+### Data Scientist — Kroger, India  
+**Jan 2021 – Aug 2022**
+- Delivered a marketing measurement & demand-planning platform linking media spend to demand and inventory for **50+ SKUs** across regions.  
+- Ingested & validated multi-terabyte sales/promo/media data into **Databricks Delta Lake** with schema enforcement, access controls, and data-quality checks.  
+- Optimized Spark ETL, reducing batch runtimes by **40%** on multi-terabyte workloads.  
+- Ran **A/B tests, cohort analyses, segmentation** (k-means, affinity) driving **+12%** conversion and budget reallocation.  
+- Improved SKU-level forecasting by **20%** with time-series decomposition (trend/seasonality/residual) and anomaly detection.  
+- Built **XGBoost/Random Forest/LSTM** models with engineered features and hyperparameter tuning, improving demand-forecast accuracy by **18%**.  
+- Shipped a promotions recommender, improving campaign response by **14%**.  
+- Operationalized ML on **AWS** with automated batch scoring/retraining and versioned rollbacks; ensured **GDPR/CCPA** compliance (RBAC, encryption).  
+- Delivered **Tableau** dashboards (ROI, regional sales lift, product performance) adopted by marketing & S&OP, enabling self-serve insights and reducing ad hoc requests.
 
 ---
 
