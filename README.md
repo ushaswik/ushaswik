@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kurmala Ushaswi
+# 👋 Hi, I'm Ushasvi K
 
 ✨ _“Building reliable LLM/ML systems that turn messy data into measurable business impact.”_
 
