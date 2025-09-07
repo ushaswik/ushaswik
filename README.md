@@ -8,7 +8,7 @@
 
 ### 📬 Connect with me
 - 📧 Email: [sriushasrik@gmail.com](mailto:sriushasrik@gmail.com)
-- 📱 Mobile: +1 (716) 226-8333
+- 📱 Mobile: +1 (346) 469-4517
 
 ---
 
