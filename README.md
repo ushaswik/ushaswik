@@ -7,7 +7,7 @@
 ---
 
 ### 📬 Connect with me
-- 📧 Email: [heyushaswi@gmail.com](mailto:heyushaswi@gmail.com)
+- 📧 Email: [sriushasrik@gmail.com](mailto:sriushasrik@gmail.com)
 - 📱 Mobile: +1 (716) 226-8333
 
 ---
